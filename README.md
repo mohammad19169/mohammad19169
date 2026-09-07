@@ -156,18 +156,38 @@ My personal site — full project write-ups, experience and downloadable CV. &nb
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad19169&show_icons=true&include_all_commits=true&count_private=true&hide=stars&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390&icon_color=1F6FEB&ring_color=1F6FEB" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad19169&layout=compact&langs_count=8&hide=c%2B%2B,cmake,ruby&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=768390" height="170" alt="Most used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad19169&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad19169&theme=github" width="88%" alt="Profile summary" />
+</picture>
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=mohammad19169&hide_border=true&background=00000000&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=768390&currStreakNum=768390&sideNums=768390&dates=768390" height="170" alt="Contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammad19169&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammad19169&theme=github" height="200" alt="Repositories per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammad19169&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammad19169&theme=github" height="200" alt="Most committed languages" />
+</picture>
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad19169&bg_color=00000000&color=768390&line=1F6FEB&point=2C5364&area=true&area_color=1F6FEB&title_color=1F6FEB&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammad19169&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammad19169&theme=github" height="200" alt="Contribution statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammad19169&theme=github_dark&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammad19169&theme=github&utcOffset=5" height="200" alt="Most productive hours" />
+</picture>
 
-<br />
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=mohammad19169&hide_border=true&background=00000000&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=768390&currStreakNum=768390&sideNums=768390&dates=768390" height="180" alt="Contribution streak" />
+
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammad19169/mohammad19169/output/github-snake-dark.svg" />
