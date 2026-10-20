@@ -187,14 +187,6 @@ My personal site — full project write-ups, experience and downloadable CV. &nb
 
 <img src="https://streak-stats.demolab.com?user=mohammad19169&hide_border=true&background=00000000&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=768390&currStreakNum=768390&sideNums=768390&dates=768390" height="180" alt="Contribution streak" />
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammad19169/mohammad19169/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammad19169/mohammad19169/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/mohammad19169/mohammad19169/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
-</picture>
-
 </div>
 
 ---
